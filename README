@@ -1,0 +1,6 @@
+This application works only for Android!!!
+0) npm install
+1) create emulator (Android)
+2) react-native start
+3) react-native run-android
+4) react-native log-android
